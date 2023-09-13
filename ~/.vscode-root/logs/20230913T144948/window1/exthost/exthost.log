@@ -282,3 +282,10 @@
 2023-09-13 15:33:31.080 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
 2023-09-13 15:33:36.126 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
 2023-09-13 15:33:41.181 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2023-09-13 15:33:46.286 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2023-09-13 15:33:51.341 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2023-09-13 15:33:56.389 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2023-09-13 15:34:01.437 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2023-09-13 15:34:06.479 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2023-09-13 15:34:11.537 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2023-09-13 15:46:43.064 [info] ExtensionService#_doActivateExtension vscode.references-view, startup: false, activationEvent: 'onCommand:references-view.findReferences'

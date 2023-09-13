@@ -10,10 +10,8 @@ function myFunctionGreen() {
     document.body.style.backgroundColor = "green";
 }
 
-let background = document.body.style.backgroundColor;
-
 function resetBackground() {
-    document.body.style.backgroundColor = background;
+    document.body.style.backgroundColor;
 }
 
 
